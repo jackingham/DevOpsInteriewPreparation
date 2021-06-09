@@ -17,6 +17,6 @@
 - 2 tier architecture separates the front end side from backend and data processes this recuction in dependancies creates a more resilient system.
 - Microservices break down the unit even further into individual componets. Whilst this introduces a lot of complexiites and makes testing each unit harder, the reduced depenadancy means if one microservice fails the rest of the services can function normally. The services can all also all use different technologies as they do not rely on a common database backend.
 
-![Microservices](https://github.com/jackingham/DevOpsInteriewPreparation/blob/main/microservices.png?raw=true)
+![Microservices](https://github.com/jackingham/DevOpsInteriewPreparation/blob/main/microservices.jpg?raw=true)
 
 
