@@ -1,6 +1,10 @@
 # DevOpsInteriewPreparation
 
 ## What are the four key benefits of DevOps and how can we utilise them (provide use cases or examples)
+- Flexibility 
+- Ease of use
+- Robustness
+- Cost
 
 ## What is public cloud, Hybrid cloud and private cloud (use cases)
 - Public cloud consits of services and resources made publically available by the provider. These allow resources and responsibilities to be transferred offsite. Common providers are AWS, Azure, and Google Cloud.
