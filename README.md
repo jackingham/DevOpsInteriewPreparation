@@ -11,6 +11,12 @@
 
 
 
-
-
 ## What is Monolith Architecture, 2 tier and Micro-services Architecture (use cases and benefits )
+
+- Monolith archticture is when all frontend, back end and database processes are combined into one unit. Whilst this is suitable for a smaller organisation's system(s), dependencies are formed between layers which stifles future changes and means the system can fail from any point.
+- 2 tier architecture separates the front end side from backend and data processes this recuction in dependancies creates a more resilient system.
+- Microservices break down the unit even further into individual componets. Whilst this introduces a lot of complexiites and makes testing each unit harder, the reduced depenadancy means if one microservice fails the rest of the services can function normally. The services can all also all use different technologies as they do not rely on a common database backend.
+
+![Microservices](https://github.com/jackingham/DevOpsInteriewPreparation/blob/main/microservices.png?raw=true)
+
+
